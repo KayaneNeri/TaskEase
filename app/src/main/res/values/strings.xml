@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TeskEase</string>
+    <string name="delete_task">Excluir tarefa</string>
+    <string name="task_name">Task Name</string>
+    <string name="delete_tasks">Delete task</string>
+
+</resources>
